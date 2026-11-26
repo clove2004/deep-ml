@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**48** solved · 43 problems · 2 labs · 3 math
+**49** solved · 44 problems · 2 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -54,6 +54,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-11-26 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-11-26 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-11-26 | [solution](problems/0312-quotient-rule-for-derivatives) |
+| [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-11-26 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-26 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 
 ## Labs
