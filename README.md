@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**72** solved · 67 problems · 2 labs · 3 math
+**73** solved · 68 problems · 2 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -68,6 +68,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-11-26 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-11-26 | [solution](problems/0329-matrix-rank) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-26 | [solution](problems/0009-matrix-times-matrix) |
+| [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-11-26 | [solution](problems/0007-matrix-transformation) |
 | [Maximum A Posteriori (MAP) Estimation for Bernoulli Parameter](https://www.deep-ml.com/problems/338) | medium | 2026-11-26 | [solution](problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-11-26 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-11-26 | [solution](problems/0080-normal-distribution-pdf-calculator) |
