@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**75** solved · 70 problems · 2 labs · 3 math
+**76** solved · 71 problems · 2 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -66,6 +66,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-11-26 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-11-26 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-11-26 | [solution](problems/0050-implement-lasso-regression-using-ista) |
+| [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-11-26 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-11-26 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-11-26 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-11-26 | [solution](problems/0329-matrix-rank) |
