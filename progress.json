@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T17:27:45.534Z",
+  "generated_at": "2026-11-26T17:28:08.589Z",
   "items": {
     "math:40": {
       "kind": "math",
@@ -826,6 +826,19 @@
       "last_pushed_at": "2026-11-26T17:27:44.835Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:205": {
+      "kind": "problem",
+      "id": "205",
+      "title": "Entropy & Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Information Theory",
+      "url": "https://www.deep-ml.com/problems/205",
+      "path": "problems/0205-entropy-cross-entropy",
+      "first_solved_at": "2026-11-26T17:28:07.886Z",
+      "last_pushed_at": "2026-11-26T17:28:07.886Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
