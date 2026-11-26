@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T17:54:06.862Z",
+  "generated_at": "2026-11-26T17:54:19.935Z",
   "items": {
     "math:40": {
       "kind": "math",
@@ -1203,6 +1203,19 @@
       "last_pushed_at": "2026-11-26T17:54:06.201Z",
       "language": "python",
       "lines": 44
+    },
+    "problem:848": {
+      "kind": "problem",
+      "id": "848",
+      "title": "Dummy Regressor Baseline",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/848",
+      "path": "problems/0848-dummy-regressor-baseline",
+      "first_solved_at": "2026-11-26T17:54:19.328Z",
+      "last_pushed_at": "2026-11-26T17:54:19.328Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
