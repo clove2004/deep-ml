@@ -2,11 +2,17 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**1** solved · 0 problems · 0 labs · 1 math
+**2** solved · 1 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
 [**Browse the interactive portfolio**](https://clove2004.github.io/deep-ml/) to replay this filling in over time.
+
+## Problems
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-11-26 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 
 ## Math
 
