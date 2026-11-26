@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**40** solved · 35 problems · 2 labs · 3 math
+**41** solved · 36 problems · 2 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-11-26 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-11-26 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-11-26 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
+| [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-11-26 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-11-26 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-11-26 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-11-26 | [solution](problems/0116-derivative-of-a-polynomial) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T17:21:28.427Z",
+  "generated_at": "2026-11-26T17:21:42.754Z",
   "items": {
     "math:40": {
       "kind": "math",
@@ -512,6 +512,19 @@
       "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
       "first_solved_at": "2026-11-26T17:21:27.479Z",
       "last_pushed_at": "2026-11-26T17:21:27.479Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-11-26T17:21:42.081Z",
+      "last_pushed_at": "2026-11-26T17:21:42.081Z",
       "language": "python",
       "lines": 15
     }
