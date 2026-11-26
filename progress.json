@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T17:47:17.298Z",
+  "generated_at": "2026-11-26T17:47:47.601Z",
   "items": {
     "math:40": {
       "kind": "math",
@@ -1034,6 +1034,19 @@
       "last_pushed_at": "2026-11-26T17:47:16.618Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:117": {
+      "kind": "problem",
+      "id": "117",
+      "title": "Compute Orthonormal Basis for 2D Vectors",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/117",
+      "path": "problems/0117-compute-orthonormal-basis-for-2d-vectors",
+      "first_solved_at": "2026-11-26T17:47:46.771Z",
+      "last_pushed_at": "2026-11-26T17:47:46.771Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
