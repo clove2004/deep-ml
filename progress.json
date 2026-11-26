@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T17:25:51.615Z",
+  "generated_at": "2026-11-26T17:26:00.149Z",
   "items": {
     "math:40": {
       "kind": "math",
@@ -696,6 +696,19 @@
       "last_pushed_at": "2026-11-26T17:25:50.737Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2026-11-26T17:25:59.464Z",
+      "last_pushed_at": "2026-11-26T17:25:59.464Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
