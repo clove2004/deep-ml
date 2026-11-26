@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T17:51:04.502Z",
+  "generated_at": "2026-11-26T17:51:18.714Z",
   "items": {
     "math:40": {
       "kind": "math",
@@ -1125,6 +1125,19 @@
       "last_pushed_at": "2026-11-26T17:51:03.628Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:739": {
+      "kind": "problem",
+      "id": "739",
+      "title": "Newton-Schulz Iteration for Approximate Orthogonalization",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/739",
+      "path": "problems/0739-newton-schulz-iteration-for-approximate-orthogonalization",
+      "first_solved_at": "2026-11-26T17:51:17.962Z",
+      "last_pushed_at": "2026-11-26T17:51:17.962Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
