@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**42** solved · 37 problems · 2 labs · 3 math
+**43** solved · 38 problems · 2 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -46,6 +46,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-26 | [solution](problems/0009-matrix-times-matrix) |
 | [Maximum A Posteriori (MAP) Estimation for Bernoulli Parameter](https://www.deep-ml.com/problems/338) | medium | 2026-11-26 | [solution](problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-11-26 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
+| [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-11-26 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-11-26 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-11-26 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-26 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
