@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 11 problems · 2 labs · 3 math
+**17** solved · 12 problems · 2 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-11-26 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-11-26 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Implement Weight Decay as L2 Regularization](https://www.deep-ml.com/problems/198) | easy | 2026-11-26 | [solution](problems/0198-implement-weight-decay-as-l2-regularization) |
+| [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-11-26 | [solution](problems/0121-vector-element-wise-sum) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-11-26 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-11-26 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-11-26 | [solution](problems/0849-precision-and-recall-at-threshold) |
