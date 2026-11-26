@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**90** solved · 85 problems · 2 labs · 3 math
+**91** solved · 86 problems · 2 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -91,6 +91,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-11-26 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-11-26 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2026-11-26 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
+| [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-11-26 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Truncated SVD Rank-r Approximation of Weight Updates](https://www.deep-ml.com/problems/872) | medium | 2026-11-26 | [solution](problems/0872-truncated-svd-rank-r-approximation-of-weight-updates) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-11-26 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-11-26 | [solution](problems/0201-qr-decomposition) |
