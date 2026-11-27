@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T17:20:15.136Z",
+  "generated_at": "2026-11-27T17:36:43.500Z",
   "items": {
     "math:40": {
       "kind": "math",
@@ -1578,6 +1578,19 @@
       "path": "problems/0840-implement-stratified-k-fold-cross-validation",
       "first_solved_at": "2026-11-27T17:20:14.928Z",
       "last_pushed_at": "2026-11-27T17:20:14.928Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:288": {
+      "kind": "problem",
+      "id": "288",
+      "title": "Implement Grid Search",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/288",
+      "path": "problems/0288-implement-grid-search",
+      "first_solved_at": "2026-11-27T17:36:43.667Z",
+      "last_pushed_at": "2026-11-27T17:36:43.667Z",
       "language": "python",
       "lines": 35
     }
