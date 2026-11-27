@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T14:46:08.323Z",
+  "generated_at": "2026-11-27T17:20:15.136Z",
   "items": {
     "math:40": {
       "kind": "math",
@@ -1565,6 +1565,19 @@
       "path": "problems/0018-implement-k-fold-cross-validation",
       "first_solved_at": "2026-11-27T14:46:07.484Z",
       "last_pushed_at": "2026-11-27T14:46:07.484Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:840": {
+      "kind": "problem",
+      "id": "840",
+      "title": "Implement Stratified K-Fold Cross-Validation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/840",
+      "path": "problems/0840-implement-stratified-k-fold-cross-validation",
+      "first_solved_at": "2026-11-27T17:20:14.928Z",
+      "last_pushed_at": "2026-11-27T17:20:14.928Z",
       "language": "python",
       "lines": 35
     }
