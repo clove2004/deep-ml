@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**106** solved · 100 problems · 3 labs · 3 math
+**107** solved · 101 problems · 3 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -83,6 +83,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-11-26 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-11-26 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Gaussian Random Projection (Johnson-Lindenstrauss)](https://www.deep-ml.com/problems/822) | medium | 2026-11-26 | [solution](problems/0822-gaussian-random-projection-johnson-lindenstrauss) |
+| [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-11-27 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-11-26 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-11-26 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-11-26 | [solution](problems/0202-jacobian-matrix-calculation) |
