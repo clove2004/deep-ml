@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**103** solved · 98 problems · 2 labs · 3 math
+**104** solved · 99 problems · 2 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -105,6 +105,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-11-26 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-11-26 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Truncated SVD Rank-r Approximation of Weight Updates](https://www.deep-ml.com/problems/872) | medium | 2026-11-26 | [solution](problems/0872-truncated-svd-rank-r-approximation-of-weight-updates) |
+| [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-11-27 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-11-26 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-11-26 | [solution](problems/0201-qr-decomposition) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-11-26 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
