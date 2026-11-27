@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T04:01:16.542Z",
+  "generated_at": "2026-11-27T07:28:12.304Z",
   "items": {
     "math:40": {
       "kind": "math",
@@ -1398,6 +1398,19 @@
       "last_pushed_at": "2026-11-27T04:01:16.268Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:800": {
+      "kind": "problem",
+      "id": "800",
+      "title": "Learning Curve Generator for Bias-Variance Diagnosis",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/800",
+      "path": "problems/0800-learning-curve-generator-for-bias-variance-diagnosis",
+      "first_solved_at": "2026-11-27T07:28:11.580Z",
+      "last_pushed_at": "2026-11-27T07:28:11.580Z",
+      "language": "python",
+      "lines": 49
     }
   }
 }
