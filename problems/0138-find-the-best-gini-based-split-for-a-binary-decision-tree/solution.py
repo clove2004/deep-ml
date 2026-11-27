@@ -20,8 +20,8 @@ def find_best_split(X: np.ndarray, y: np.ndarray) -> Tuple[int, float]:
     threshold = -1
     G_cur = 1e10
     for j in range (n_features):
-        for i in range (n_samples):
-            threshold_cur = X[i][j]
+        thresholds = np.unique(X[:, j])
+        for threshold_cur in thresholds:
             left, right = [], []
             for k in range (n_samples):
                 if X[k][j] <= threshold_cur:
